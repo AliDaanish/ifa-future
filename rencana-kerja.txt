@@ -1,0 +1,5 @@
+Membuat rencana Kerja
+- assessment costumer
+- membuat UI/UX Design
+- membuat layout website
+- membuat HTMl dan CSS dasar
